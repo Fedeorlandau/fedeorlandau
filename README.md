@@ -10,7 +10,8 @@ I'm a Developer from Argentina! I speak English, Spanish and ypescript!
 </a>
 <a href="https://www.npmjs.com/~fedeorlandau">
   <img align="left" alt="Federico's NPM" src="https://img.shields.io/badge/npm-fedeorlandau-critical" />
-</a>
+</a>.   
+
 
 🔭 I’m currently working on 
 
