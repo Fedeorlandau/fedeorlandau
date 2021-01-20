@@ -1,6 +1,6 @@
 ### Hi, I'm Fede! 
 
-I'm a Developer from Argentina! I speak English, Spanish and ypescript!
+I'm a Developer from Argentina! I speak English, Spanish and Typescript!
 
 <a href="https://www.linkedin.com/in/federico-orlandau/">
   <img align="left" alt="Federico's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -10,7 +10,7 @@ I'm a Developer from Argentina! I speak English, Spanish and ypescript!
 </a>
 <a href="https://www.npmjs.com/~fedeorlandau">
   <img align="left" alt="Federico's NPM" src="https://img.shields.io/badge/npm-fedeorlandau-critical" />
-</a>.   
+</a> 
 
 
 🔭 I’m currently working on 
