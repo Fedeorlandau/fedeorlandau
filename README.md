@@ -12,7 +12,7 @@ I'm a Developer from Argentina! I speak English, Spanish and Typescript!
 
 🔭 I’m currently working on 
 
-<a href="https://www.npmjs.com/package/chakra-ui-simple-autocomplete" target="_blank"><img src="https://img.shields.io/badge/chakra--ui-autocomplete-important"/></a> <a href="https://www.npmjs.com/package/parse-model-factory" target="_blank"><img src="https://img.shields.io/badge/parse-model--factory-important"/></a> <a href="https://www.npmjs.com/package/await-catch" target="_blank"><img src="https://img.shields.io/badge/js-await--catch-important"/></a>
+<a href="https://www.npmjs.com/package/jodit-react-ts" target="_blank"><img src="https://img.shields.io/badge/jodit-jodit--react--ts-important"/></a> <a href="https://www.npmjs.com/package/chakra-ui-simple-autocomplete" target="_blank"><img src="https://img.shields.io/badge/chakra--ui-autocomplete-important"/></a> <a href="https://www.npmjs.com/package/parse-model-factory" target="_blank"><img src="https://img.shields.io/badge/parse-model--factory-important"/></a> <a href="https://www.npmjs.com/package/await-catch" target="_blank"><img src="https://img.shields.io/badge/js-await--catch-important"/></a>
 
 🌱 I’ve contributed to
 
