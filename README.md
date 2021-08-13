@@ -8,7 +8,7 @@
   <img align="left" alt="Federico's NPM" src="https://img.shields.io/badge/npm-fedeorlandau-critical" />
 </a>  <br/><br/> 
   
-I'm a Developer from Argentina! I speak English, Spanish and Typescript!  
+I'm a Developer from Denmark! I speak English, Spanish and Typescript!  
 
 🔭 I’m currently working on 
 
