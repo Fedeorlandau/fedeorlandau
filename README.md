@@ -1,7 +1,7 @@
 ### Hi, I'm Fede! 
   
 <a href="https://www.linkedin.com/in/federico-orlandau/" target="_blank">
-  <img align="left" alt="Federico's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Federico's LinkedIN" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />
 </a><a href="https://www.youtube.com/watch?v=gdBtJMk7dto" target="_blank">
   <img align="left" alt="Federico's Youtube" src="https://img.shields.io/youtube/views/gdBtJMk7dto?style=social" />
 </a><a href="https://www.npmjs.com/~fedeorlandau" target="_blank">
