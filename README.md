@@ -10,7 +10,7 @@
   
 I'm a Developer from Argentina! Currently based in Denmark. I speak English, Spanish and Typescript! Check out my website https://fedeorlandau.dev :)
 
-🔭 I’m currently working on https://devmark.it
+🔭 I’m currently working on https://lastbite.dk and https://devmark.it
 
 Devmark.it is a poker planning tool that let you create private rooms to help you estimating your next feature!
 
